@@ -1,2 +1,4 @@
 # Not evil removing this
 .cache/
+node_modules
+dist/
